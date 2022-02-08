@@ -40,6 +40,8 @@ Use UP, DOWN, LEFT, RIGHT to move the ball in the game.
 
 ---
 
-
-#### Contact:
-Feel free to reach me - <nehaprajapati1150@gmail.com>
+## Contact
+Feel free to reach me ->
+- Email - <nehaprajapati1150@gmail.com> 
+- LinkedIn - https://linkedin.com/in/neha-prajapati-1150
+- Twitter - https://twitter.com/NehaPra03810819
