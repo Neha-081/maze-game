@@ -2,6 +2,10 @@
 
 ## Sample of Game
 
+![maze](https://user-images.githubusercontent.com/87421798/152963280-81b3c652-75c9-450b-a620-ee51bc24e8bd.png)
+
+![win](https://user-images.githubusercontent.com/87421798/152963293-13f51e19-f854-49b8-9cb5-abb4c80b3589.png)
+
 
 
 ## What is it?
