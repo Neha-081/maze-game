@@ -6,6 +6,8 @@
 
 It's a really simple puzzle game in which a ball is needed to reach it's destination.
 
+---
+
 
 ## Sample of Game
 
@@ -14,11 +16,19 @@ It's a really simple puzzle game in which a ball is needed to reach it's destina
 ![win](https://user-images.githubusercontent.com/87421798/152963293-13f51e19-f854-49b8-9cb5-abb4c80b3589.png)
 
 
+---
+
+
+
 ### How to use?
 Head to this url => https://maze-game-neha.netlify.app/ or
 Just index.html file
 
 Use UP, DOWN, LEFT, RIGHT to move the ball in the game.
+
+
+---
+
 
 #### Technologies Used:
 
@@ -26,6 +36,9 @@ Use UP, DOWN, LEFT, RIGHT to move the ball in the game.
 - HTML
 - JavaScript
 - CSS
+
+
+---
 
 
 #### Contact:
