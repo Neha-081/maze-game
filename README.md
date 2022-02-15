@@ -24,7 +24,7 @@ It's a really simple puzzle game in which a ball is needed to reach it's destina
 Head to this url => https://maze-game-neha.netlify.app/ or
 Just index.html file
 
-Use UP, DOWN, LEFT, RIGHT to move the ball in the game.
+Use UP , DOWN, LEFT, RIGHT to move the ball in the game.
 
 
 ---
